@@ -4,7 +4,7 @@ A clean, scalable starter template for a multi-tenant CRM / Connect client porta
 
 ## What This Is
 
-This repository is a frontend starter template, not a finished CRM product.
+This repository is a frontend starter template.
 
 It exists to provide:
 
