@@ -478,4 +478,4 @@ Planned future directions:
 
 ## License
 
-License placeholder. Add the license that matches your organization or open-source distribution plan.
+Copyright (c) 2026 Muhaimin Muhyi
