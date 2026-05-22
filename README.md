@@ -60,7 +60,7 @@ Only these feature modules are included:
 - Axios
 - lucide-react
 - ESLint
-- pnpm
+- npm
 
 ## Architecture Overview
 
@@ -379,7 +379,7 @@ If a required shadcn component is missing, add it with the CLI instead of hand-r
 Example:
 
 ```bash
-pnpm dlx shadcn@latest add button card dialog select table
+npm dlx shadcn@latest add button card dialog select table
 ```
 
 This repository already includes the minimal components needed for the starter.
@@ -400,25 +400,25 @@ The starter currently uses:
 ## Installation
 
 ```bash
-pnpm install
+npm install
 ```
 
 ## Development
 
 ```bash
-pnpm dev
+npm dev
 ```
 
 ## Lint
 
 ```bash
-pnpm lint
+npm lint
 ```
 
 ## Build
 
 ```bash
-pnpm build
+npm build
 ```
 
 ## Mock API Notes
